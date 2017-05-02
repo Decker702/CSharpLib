@@ -7,8 +7,10 @@ using System.Threading.Tasks;
 namespace _0._06_Methods
 {
     class Program
-    {
-        static void Main(string[] args)
+    {             
+        //The Main method is the entry point for every C# application and it called by the common language runtime(CLR) when the program is started.
+        static void Main(string[] args)             
+
         {
             Customer theJSWizard = new Customer();
             theJSWizard.AppearsWealthy = false;

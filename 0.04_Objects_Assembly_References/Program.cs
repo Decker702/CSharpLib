@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System.Speech.Synthesis;
+using System.Speech.Synthesis;  //This pre-written code is available to make the speech synthesizer work
 
-namespace _0._04_Objects_Assembly_References
+namespace _0._04_Objects_Assembly_References//An assembly provides a fundamental unit of physical code grouping
 {
     class Program
     {
@@ -13,9 +13,7 @@ namespace _0._04_Objects_Assembly_References
         {
             SpeechSynthesizer speak = new SpeechSynthesizer();
 
-            //need to add System.Speech.Synthesis; to get it to work.
-            //Use References to get it added.  
-            //See it in the Using section at top.
         }
     }
 }
+//hover over red squiggly item and hit control + . to get suggested using options
