@@ -1,0 +1,5 @@
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Construtors_Challenge\bin\Debug\0.09_Construtors_Challenge.exe.config
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Construtors_Challenge\bin\Debug\0.09_Construtors_Challenge.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Construtors_Challenge\bin\Debug\0.09_Construtors_Challenge.pdb
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Construtors_Challenge\obj\Debug\0.09_Construtors_Challenge.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Construtors_Challenge\obj\Debug\0.09_Construtors_Challenge.pdb

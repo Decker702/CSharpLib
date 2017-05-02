@@ -1,0 +1,5 @@
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArrayOfObject\bin\Debug\0.10_Collections_ArrayOfObject.exe.config
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArrayOfObject\bin\Debug\0.10_Collections_ArrayOfObject.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArrayOfObject\bin\Debug\0.10_Collections_ArrayOfObject.pdb
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArrayOfObject\obj\Debug\0.10_Collections_ArrayOfObject.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_ArrayOfObject\obj\Debug\0.10_Collections_ArrayOfObject.pdb

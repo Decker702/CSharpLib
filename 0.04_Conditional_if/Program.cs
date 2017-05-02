@@ -21,12 +21,12 @@ namespace _0._04_Conditional_if
             {
                 Console.WriteLine("The light is on.");
             }
-            if (isOn && isHot)//Operator && is conditional for and; both have to be true
+            if (isOn && isHot)//Operator && is conditional for and. Both have to be true for it to print.
             {
                 Console.WriteLine("Lights are on and it's hot.");
             }
             if (isOn || isHot)//Operator || is conditional for or; either have to be true
-                //System tests the first statement and if true it moves on, if false it test the second one.
+                //System tests the first condition and if true it moves on, if false it test the second one.
             {
                 Console.WriteLine("Lights are on or it is hot.");
             }

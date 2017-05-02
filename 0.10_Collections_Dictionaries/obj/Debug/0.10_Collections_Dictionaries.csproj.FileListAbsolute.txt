@@ -1,0 +1,5 @@
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_Dictionaries\bin\Debug\0.10_Collections_Dictionaries.exe.config
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_Dictionaries\bin\Debug\0.10_Collections_Dictionaries.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_Dictionaries\bin\Debug\0.10_Collections_Dictionaries.pdb
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_Dictionaries\obj\Debug\0.10_Collections_Dictionaries.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.10_Collections_Dictionaries\obj\Debug\0.10_Collections_Dictionaries.pdb

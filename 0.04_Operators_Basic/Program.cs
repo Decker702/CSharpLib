@@ -27,8 +27,8 @@ namespace _0._04_Operators_Basic
                Postfix increment
                 var a = 1;
                 var b = a++;
-                In this case after it is run then a is 2 (increase by 1; 1+1=2) and b is 1 (original a value; 1)
-                    
+                In this case a is 2 (increase by 1; 1+1=2) and b is 1 (original a value; 1)
+                    This is because 1 is assigned to b before it is incremented
 
                Prefix increment
                 var a = 1;

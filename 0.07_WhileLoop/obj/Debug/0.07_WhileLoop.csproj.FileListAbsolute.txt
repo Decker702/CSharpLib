@@ -1,0 +1,6 @@
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.07_WhileLoop\bin\Debug\0.07_WhileLoop.exe.config
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.07_WhileLoop\bin\Debug\0.07_WhileLoop.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.07_WhileLoop\bin\Debug\0.07_WhileLoop.pdb
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.07_WhileLoop\obj\Debug\0.07_WhileLoop.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.07_WhileLoop\obj\Debug\0.07_WhileLoop.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.07_WhileLoop\obj\Debug\0.07_WhileLoop.pdb

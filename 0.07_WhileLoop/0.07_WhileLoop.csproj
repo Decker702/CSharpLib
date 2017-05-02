@@ -7,7 +7,7 @@
     <ProjectGuid>{C8AA5D3A-959F-4DBA-B143-30DFCFC0090E}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_0._07_WhileLoop</RootNamespace>
-    <AssemblyName>_0._07_WhileLoop</AssemblyName>
+    <AssemblyName>0.07_WhileLoop</AssemblyName>
     <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

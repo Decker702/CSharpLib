@@ -1,0 +1,5 @@
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Construction_Base\bin\Debug\netcoreapp1.1\0.09_Construction_Base.deps.json
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Construction_Base\bin\Debug\netcoreapp1.1\0.09_Construction_Base.runtimeconfig.json
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Construction_Base\bin\Debug\netcoreapp1.1\0.09_Construction_Base.runtimeconfig.dev.json
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Construction_Base\obj\Debug\netcoreapp1.1\0.09_Construction_Base.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.09_Construction_Base\obj\Debug\netcoreapp1.1\0.09_Construction_Base.AssemblyInfo.cs

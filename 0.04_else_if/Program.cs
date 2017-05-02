@@ -36,3 +36,5 @@ namespace _0._04_else_if
         }
     }
 }
+// To comment out a whole section of code - highlight section to comment & select comment out button on top tool bar.
+// The comment out icon on the tool bar is next to the uncomment out icon.

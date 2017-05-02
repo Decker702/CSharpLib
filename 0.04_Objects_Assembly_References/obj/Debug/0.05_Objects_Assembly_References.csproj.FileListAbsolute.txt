@@ -1,0 +1,6 @@
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Objects_Assembly_References\bin\Debug\0.04_Objects_Assembly_References.exe.config
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Objects_Assembly_References\bin\Debug\0.04_Objects_Assembly_References.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Objects_Assembly_References\bin\Debug\0.04_Objects_Assembly_References.pdb
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Objects_Assembly_References\obj\Debug\0.05_Objects_Assembly_References.csprojResolveAssemblyReference.cache
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Objects_Assembly_References\obj\Debug\0.04_Objects_Assembly_References.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Objects_Assembly_References\obj\Debug\0.04_Objects_Assembly_References.pdb

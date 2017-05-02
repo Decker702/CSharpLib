@@ -1,0 +1,5 @@
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Ternary\bin\Debug\0.04_Conditionals_Ternary.exe.config
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Ternary\bin\Debug\0.04_Conditionals_Ternary.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Ternary\bin\Debug\0.04_Conditionals_Ternary.pdb
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Ternary\obj\Debug\0.04_Conditionals_Ternary.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.04_Conditionals_Ternary\obj\Debug\0.04_Conditionals_Ternary.pdb

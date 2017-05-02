@@ -1,0 +1,5 @@
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.11_Inheritance\bin\Debug\0.11_Inheritance.exe.config
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.11_Inheritance\bin\Debug\0.11_Inheritance.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.11_Inheritance\bin\Debug\0.11_Inheritance.pdb
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.11_Inheritance\obj\Debug\0.11_Inheritance.exe
+C:\Users\Moncure306\Documents\Visual Studio 2017\Projects\CSharpLibrary\0.11_Inheritance\obj\Debug\0.11_Inheritance.pdb
