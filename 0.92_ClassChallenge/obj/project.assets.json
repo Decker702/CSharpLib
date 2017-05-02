@@ -7080,10 +7080,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Moncure306\\Documents\\Visual Studio 2017\\Projects\\CSharpLibrary\\0.92_ClassChallenge\\0.92_Challenge.csproj",
+      "projectUniqueName": "C:\\Users\\Moncure306\\documents\\visual studio 2017\\Projects\\CSharpLibrary\\0.92_ClassChallenge\\0.92_Challenge.csproj",
       "projectName": "0.92_Challenge",
-      "projectPath": "C:\\Users\\Moncure306\\Documents\\Visual Studio 2017\\Projects\\CSharpLibrary\\0.92_ClassChallenge\\0.92_Challenge.csproj",
-      "outputPath": "C:\\Users\\Moncure306\\Documents\\Visual Studio 2017\\Projects\\CSharpLibrary\\0.92_ClassChallenge\\obj\\",
+      "projectPath": "C:\\Users\\Moncure306\\documents\\visual studio 2017\\Projects\\CSharpLibrary\\0.92_ClassChallenge\\0.92_Challenge.csproj",
+      "outputPath": "C:\\Users\\Moncure306\\documents\\visual studio 2017\\Projects\\CSharpLibrary\\0.92_ClassChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
