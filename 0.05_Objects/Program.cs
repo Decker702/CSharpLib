@@ -10,14 +10,14 @@ namespace _0._05_Objects //Objects have specific properties and behaviors;
     class Employee  //Class defines complex types, which includes fields which are data and properties are methods which represent behavior
     {
         /*
-                private int age; //backing variable age.  A field is a member, can be private - only seen by methods of the class itself, or 
+         private int age; //backing variable age.  A field is a member, can be private - only seen by methods of the class itself, or 
                                  //    public can be seen by any method of any class.  Private variable is lower case and Public is upper Case
-                public int Age  // Access to the age through a property
-                {
-                    get { return age; }
-                    set { age = value; }
-         */
- /*       public int Age { get; set; } //This is the same as above in just one line
+         public int Age  // Access to the age through a property
+      {
+            get { return age; }
+            set { age = value; }
+ */
+ /*     public int Age { get; set; } //This is the same as above in just one line
         public string Name { get; set; }
         public double Salary { get; set; }
         public DateTime StartingDate { get; set; }
@@ -26,10 +26,8 @@ namespace _0._05_Objects //Objects have specific properties and behaviors;
         //Methods are simply functions that are members of the class. 
         //Most methods have a return type or void, they take zero or more parameters, & there is a body to the method.
         public void Bonus(double bonusPercent)//This is a method.  It is void because it returns no value, Argument is double called bonusPercent,
-        {                                       //body adds to the salary the salary*bonusPercent.
+      {                                       //body adds to the salary the salary*bonusPercent.
             Salary += Salary * bonusPercent;
-        }
-
     }
     */
     class Program
@@ -49,7 +47,7 @@ namespace _0._05_Objects //Objects have specific properties and behaviors;
             Console.WriteLine("Dave's age is {0} he started on {1} and makes{3}.", Dave.Age, Dave.StartingDate, Dave.Salary);
             Dave.Bonus(0.05); //This give Dave a 5% bonus
 */
-            //This is how it is done with 2 files 
+            //This is how it is done with 2 files, see Class Donuts 
                 Donuts appleCin = new Donuts();
                 appleCin.Filling = "apple pie";
                 appleCin.isSpecial = false;

@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._08_ForLoop  
+namespace _0._08_ForLoop  //The syntax is: for (init; condition; increment){statements);}
+  //The flow: the init step is executed first and only once.  This allows you to declare and initialize any loop control variables.
+  //  Next, the condition is evaluated.
 {
     class Program
     {

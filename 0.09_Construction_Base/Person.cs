@@ -27,8 +27,6 @@ namespace _0._09_Constructors_base
         public int Age { get; set; }
 
 
-      
-
         //Methods
         public virtual void TestMethod()
         {

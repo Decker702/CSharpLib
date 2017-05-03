@@ -4,15 +4,16 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._04_Conditionals_ReadLine
+namespace _0._04_Conditionals_ReadLine//ReadLine allows user to enter a response in the console.
+   //Else-if statements provide a response based on the information the reader entered.  
 {
     class Program
     {
         static void Main(string[] args)
         {
             Console.WriteLine("How are you feeling today from 1-5?");
-            string feelingNumber = Console.ReadLine();//ReadLine allows user to enter a response in the console.
-            //If-else statements provide responses based on the information the reader entered.  In this case from 1 to 5.
+            string feelingNumber = Console.ReadLine();
+
             if(feelingNumber == "5")
             {
                 Console.WriteLine("Wow, that's great to hear.");
@@ -35,8 +36,8 @@ namespace _0._04_Conditionals_ReadLine
             {
                 Console.WriteLine("How miserable.");
             }
-            else
-            {//If the user did not enter a number from 1 to 5, then they get the following response.
+            else//This is the last option or the default.
+            {//If the user did not enter a number from 1 to 5, they get the following response.
                 Console.WriteLine("Sorry, I didn't catch that, man.");
             }
             Console.ReadLine();

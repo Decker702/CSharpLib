@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace _0._08_Methods_Overloading
 /* Method overloading is what happens when you have two methods with the same name, but different signatures.
      Only the method name and its parameters type(not paramenter names) are part of the signature.
-     They must have unique a name, unique paramenter types or pass their arguments differently.
+     They must have unique name, unique paramenter types or pass their arguments differently.
    At compile time, the compiler works out which one is called, base on the compile time types of the arguments
      and the target of the method call.
    Because only methods, constructors, and indexed properties can have parameters, only those members can be overloaded.
@@ -37,7 +37,6 @@ namespace _0._08_Methods_Overloading
         }
 
     }
-
 
     class Program
     {

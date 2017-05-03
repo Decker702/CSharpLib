@@ -4,7 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._06_Methods
+namespace _0._06_Methods//A method is a code block that contains a series of statments.  
+//A program causes the statements to be executed by calling the method and specifying any required method arguments.
+//In C# every executed instruction is performed in the context of a method.
 {
     class Program
     {             
@@ -13,10 +15,10 @@ namespace _0._06_Methods
 
         {
             Customer theJSWizard = new Customer();
-            theJSWizard.AppearsWealthy = false;
+            theJSWizard.AppearsWealthy = false;//set the properties for the JSWizard
             theJSWizard.FirstName = "James";
             theJSWizard.LastName = "Handshoe";
-            //above we set the properties for the JSWizard
+       
 
            // Console.WriteLine(); is not needed here, since it is called in the Customer class
 

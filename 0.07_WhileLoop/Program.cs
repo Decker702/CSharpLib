@@ -4,7 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._07_WhileLoop//Allows you to do some work, while condition is true.
+namespace _0._07_WhileLoop//The expression is evaluated each time the loop is encounted and the evaluation result is true.
+//The while statement executes a statement of a block of statements until a specified expression evaluates to false.
 {
     class Program
     {

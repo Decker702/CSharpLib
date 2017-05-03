@@ -8,15 +8,11 @@ namespace _0._06_Methods
 {
     class Customer
     {
-
         // Writing order: 1) Field is variable of any type that is declared directly in a class or struct 
            //2) Property is a member that provides a flexible mechanism to read, write or compute the value of a private field, 
-           //then 3) Method is a code block that contains a series of statments.  A program causes the statements to be executed
-             //by calling the method and specifying any required method arguments.  In C#, every executed instruction is performed
-             // in the context of a method.
-             //The Main method is the entry point for every C# application and it called by the common language runtime(CLR) when the program is started.
-        //PROPERTIES
-        //following are properties, and they are inside of classes
+           //3) Method is a code block that contains a series of statments.  
+            
+        //following are properties
         public int CustomerID { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }

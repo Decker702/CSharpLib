@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace _0._09_Constructors_base
-{//base keyword calls up to the parent constructor public Minor(string firstName, string lastName, int age, bool IsInSchool)
+{//base keyword calls up to the person constructor public Minor(string firstName, string lastName, int age, bool IsInSchool)
     //    : base(firstName, lastName, age) 
     //this in inherited from the parent, which is named Person.
     public class Minor : Person

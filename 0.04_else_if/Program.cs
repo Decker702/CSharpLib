@@ -4,10 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._04_else_if
+namespace _0._04_else_if//You can nest an if statement inside an else block to test Boolean expressions.
+    //The format is if{} else if{} as many else if{} as needed, ending in an else for the default
 {
     class Program
-    {//You can nest an if statement inside an else block.  You can use any valid Boolean expression for the condition.
+    {
         static void Main(string[] args)
         {
             int bankAccount = 50000;

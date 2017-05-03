@@ -4,11 +4,11 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._04_Conditionals_Ternary
+namespace _0._04_Conditionals_Ternary //Ternary Operator returns one of two expressions depending on the condition.  
+          //It's pattern is   test ? expression1: expression2.  You need the ? and : to make it work.
 {
     class Program
-    {//Ternary Operator returns one of two expressions depending on the condition.  
-        //It's pattern is   test ? expression1: expression2.  You need the ? and : to make it work.
+    {
         static void Main(string[] args)
         {
            //One way to write it

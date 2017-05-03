@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._09_Constructors//Constructors are special methods of the class.  They are used to construct an instance of the class & populate the data
-{ //They have no return type, not even void and they must have the name of the class. They take parameters, which commonly are for each of the properties of the class
-  //In the body of the constructor you can assign these passed in parameters to the property.  
-  //Now you can construct the object by passing paramenters in to the constructor at the time you create the object.
-    class Employee//Classes define a type ojects are instances of that type.
+namespace _0._09_Constructors//Constructors are special methods of the class.  They are used to construct an instance of the class & populate the data.
+{ //They have no return type and must have the name of the class. They take parameters, usually for each of the properties of the class
+  //You construct the object by passing paramenters into the constructor at the time the object is created.
+
+    class Employee
     {
         public int Age { get; set; }//Properties of the class.  
-        public string Name { get; set; }//Properties are way other methods of other classes interact with the data of the class
+        public string Name { get; set; }//Properties are the way other methods of other classes interact with the data of the class
         public double Salary { get; set; }
         public DateTime StartingDate { get; set; }
         public string PhoneNumber { get; set; }
@@ -20,10 +20,10 @@ namespace _0._09_Constructors//Constructors are special methods of the class.  T
         {                                      //Methods represent the behavior of the objects in that class
             Salary += Salary * bonusPercent;
         }
-        //Constructors have no return type, not even void and they must have the name of the class. They take parameters, which commonly are for each of the properties of the class
+        //Constructor
         public Employee(int age, string name, double salary, DateTime startingDate, string phoneNumber)
         {
-            Age = age;//In the body of the constructor you can assign these passed in parameters to the property
+            Age = age;//In the body of the constructor you can assign and pass in the parameters of the property
             Name = name;
             Salary = salary;
             StartingDate = startingDate;
@@ -32,7 +32,7 @@ namespace _0._09_Constructors//Constructors are special methods of the class.  T
         //Method overloading is when you have two methods with the same name, but different parameters.  Different types or number of them.
         public Employee()
         {
-            //default constructor.
+           
         }
 
     }

@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._04_Conditionals_if_else
+namespace _0._04_Conditionals_if_else//In an if-else statement, if the condition evaluates to true, the then-statement runs.
+                                     //If the condition evaluates to false, the else-statement runs.  There are two options.
 {
     class Program
     {
         static void Main(string[] args)
-        {//In an if-else statement, if condition evaluates to true, the then-statement runs.
-            //If the condition is false, the else-statement runs.  
+        {
             bool elevatorUp = true;
             bool elevatorDown = true;
             bool elevatorBroken = true;

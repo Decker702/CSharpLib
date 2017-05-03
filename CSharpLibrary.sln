@@ -59,7 +59,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_ForLoop", "0.08_ForLoo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.50_CSS_Architecture", "0.50_CSS_Architecture\0.50_CSS_Architecture.csproj", "{AA6A10E4-097F-458E-B5D3-8B476A536987}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Construction_Base", "0.09_Construction_Base\0.09_Construction_Base.csproj", "{0D7B6D82-99B0-4B53-8B48-6F98CBABE89C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.09_Constructors_Base", "0.09_Construction_Base\0.09_Constructors_Base.csproj", "{0D7B6D82-99B0-4B53-8B48-6F98CBABE89C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.03_StringsChallenge", "0.03_StringsChallenge\0.03_StringsChallenge.csproj", "{457B6985-13CB-4685-8A02-1B032FB41B82}"
 EndProject

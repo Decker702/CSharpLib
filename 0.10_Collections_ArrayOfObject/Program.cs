@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._10_Collections_ArrayOfObject//An array stores a fixed-size sequential collectiom of elements of the same type
+namespace _0._10_Collections_ArrayOfObject//An array stores a fixed-size sequential collectiom of elements of the same type.
                     //Lists are like arrays, but they can grow as you use them.  Not fixed size.
-                    //Queue - fifo - first in first out.  Like a line at the ticket office.  Need to look it up to use.
+                    //Queue - fifo - first in first out.  Like a line at the ticket office, first come first served.  Need to look it up to use.
                     //Stacks - lifo - last in first out.  Like a stack of dishes - take it off the top.  Need to look it up to use.
 {
     class Item

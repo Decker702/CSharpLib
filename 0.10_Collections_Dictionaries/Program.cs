@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _0._10_Collections_Dictionaries//Dictionaries have keys and values.  Key value pairs make up a dictionary.  Key most often NOT an integer
-            //In a Webster dictionary - the key is the word and the value the definition.  When you sort the key, the values come along
-            //typically key is short and value is complex
+namespace _0._10_Collections_Dictionaries//Dictionaries have keys and values.  Key value pairs make up a dictionary.  Key most often is NOT an integer
+      //In a Webster dictionary - the key is the word and the value the definition.  When you sort the key, the values come along
+      //Typically key is short and value is complex. A Key is usually NOT an integer
 {
     class Program
     {

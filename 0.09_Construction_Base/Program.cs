@@ -10,17 +10,17 @@ namespace _0._09_Constructors_base
     {
         static void Main(string[] args)
         {
-            //Using construtor 1
+            //construtor 1
             Person kenn = new Person();
             kenn.FirstName = "Kenn";
             kenn.LastName = "Pascascio";
             kenn.Age = 40;
             kenn.TestMethod();
 
-            //Using constructor 2
+            //constructor 2
             Person kenn2 = new Person("Kenny", "Pascascio", 40);
             kenn2.TestMethod();
-            
+
             Minor sophia = new Minor("Sophia", "O'Connor", 4, true);
             sophia.DemoMethod();
             sophia.TestMethod();
@@ -34,16 +34,10 @@ namespace _0._09_Constructors_base
             jennA.TestMethod();
 
             Console.ReadLine();
+        }
+    }
+}
 
 
-
-
-
-
-
-            //Person chris = new Person("Chris", "Sullivan");
-            //chris.TestMethod();
-
-    */
 
 
