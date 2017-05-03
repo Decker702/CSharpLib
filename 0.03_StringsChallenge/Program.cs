@@ -44,47 +44,45 @@ namespace _0._03_StringsChallenge
                          Console.WriteLine("My name is " + name + ".\nHow do you do?\nI am " + age + " and I am going to visit the " + location + ".");
                          Console.ReadLine();
             */
-
-            //TODO - Complete Strings_Challenges
-            //Manipulate numbers 
             /*
-                        decimal dec = 235.00M;
-                        string money = dec.ToString("C");
-                        Console.WriteLine(money);
-                        Console.ReadLine();
-             */
+                        //Manipulate numbers 
+                          decimal dec = 235.00M;
+                          string money = dec.ToString("C");
+                          Console.WriteLine(money);
+                          Console.ReadLine();
+            */
 
             /* Silver Challenge:
                     Create a note to a potential employer that states your goals as a developer.
                     Include the date in the string that is converted to a short date string.
-                       Create 2 strings: Your user name in lowercase, and in uppercase,
+                    Create 2 strings: Your user name in lowercase, and in uppercase,
                     Write code that compares the two strings and prints.
             */
             /*
                         DateTime dateToDisplay = new DateTime(2016, 3, 11);
-                        Console.WriteLine("   {0}", dateToDisplay.ToString("d"));
+                        Console.WriteLine("{0}", dateToDisplay.ToString("d"));
 
-                        Console.WriteLine("Dear Ms. Jones,\nToday is" + "{0}", dateToDisplay.ToString("d") + ". I enjoy the class and learning C#.\nWhen I complete the course, I would like to get a developer job.\nThank you,\nL. Decker");
+                        Console.WriteLine("Dear Ms. Jones,\nToday is {0}. I enjoy the class and learning C#.\nWhen I complete the course, I would like to get a developer job.\nThank you,\nL. Decker", dateToDisplay.ToString("d"));
                         Console.ReadLine();
-
             */
+           
             /* Gold Challenge: 
                     Create 2 strings: Your username in lowercase, and in uppercare. 
                     Print one sentence that says they are equal.
                     Print a second sentence that says they are not equal.
             */
 
-            string lower = "ldecker";
-            string upper = "LDECKER";
-            bool result1 = lower.Equals(upper, StringComparison.Ordinal);
-            bool result2 = lower.Equals(upper, StringComparison.OrdinalIgnoreCase);
+                       string lower = "ldecker";
+                       string upper = "LDECKER";
+                       bool result1 = lower.Equals(upper, StringComparison.Ordinal);
+                       bool result2 = lower.Equals(upper, StringComparison.OrdinalIgnoreCase);
 
-            Console.WriteLine("Ordinal comparison: {0} and {1} are {2}", lower, upper,
+                       Console.WriteLine("Ordinal comparison: {0} and {1} are {2}", lower, upper,
                                 result1 ? "equal." : "not equal.");
-            Console.WriteLine("OrdinalIgnoreCase comparison: {0} and {1} are {2}", lower, upper,
+                       Console.WriteLine("OrdinalIgnoreCase comparison: {0} and {1} are {2}", lower, upper,
                                 result2 ? "equal." : "not equal.");
 
-            Console.ReadLine();
+                       Console.ReadLine();
 
         }
     }

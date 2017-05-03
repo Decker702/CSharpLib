@@ -1,8 +1,7 @@
 ﻿using System;//Using statements bring in already created/defined code to simplify your coding
-//Can add a using space by hovering and hitting control = .
 
 namespace _0._01_Intro //Namespace is a container of related classes.
-         //It has acces to the Classes it contains.  
+         //It has access to the Classes it contains.  
          //The using statments provide additional information to the namespace.
 
 {
@@ -17,9 +16,10 @@ namespace _0._01_Intro //Namespace is a container of related classes.
 
         {//The information between {} are separate blocks of code.
 
-           Console.WriteLine("Hello World");// A ; ends every statement.
+           Console.WriteLine("Hello World");// a ; ends every statement.
            Console.ReadLine();//Displays Hello World in the console.
         }
     }
 }
+//Can add a using statement by hovering over the red squiggly lined word and hitting control + .
 //Run application with control + F5

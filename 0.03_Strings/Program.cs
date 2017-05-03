@@ -15,7 +15,7 @@ namespace _0._03_Strings
             string lastName;
             string occupation;
 
-            firstName = "CHarlie";
+            firstName = "Charlie";
             lastName = "Brown";
             occupation = "Stuntman";
             string fullName = firstName + " " + lastName;

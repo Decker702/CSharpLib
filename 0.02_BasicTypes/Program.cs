@@ -32,7 +32,7 @@ namespace _0._02_BasicTypes
             Integral Numbers are: byte, short, int, long
             Real Numbers are: float, decimal & double
             Character is char   Unicode Characters
-            Boolean is boo      true/false
+            Boolean is bool     true/false
              */
 
             /*C# Non Primitive Types
@@ -60,15 +60,8 @@ namespace _0._02_BasicTypes
 
             //Use this to get console to pop up and stay
             Console.ReadLine();
-            
-            /*
-             * 
-             * 
-             * 
-             */
-            
-       
+
         }
     }
 }
-//CW tab - will write out Console.WriteLine
+//CW tab tab - will write out Console.WriteLine

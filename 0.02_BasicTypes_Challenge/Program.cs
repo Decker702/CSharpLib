@@ -17,39 +17,40 @@ namespace _0._02_BasicTypes_Challenge
                  * Print a view of the values in the console
              */   
                 
-/*                   // int number;
+/*                 // int number;
                      int year = 1776;
                    //string city;
                      string city = "Fishers";
-                    //bool isOn;
-                    bool isOn = true;
-                   // double d;
-                    double d = 78.76;
-                    //decimal dd;
-                    decimal dd = 78.76M;
+                   //bool isOn;
+                     bool isOn = true;
+                   //double d;
+                     double d = 78.76;
+                   //decimal dd;
+                     decimal dd = 78.76M;
+
                     Console.WriteLine(year);
                     Console.WriteLine(city);
                     Console.WriteLine(isOn);
                     Console.WriteLine(d);
                     Console.WriteLine(dd);
                     Console.ReadLine();
- */                   
+ */           
+ 
 /*         
-                //Silver:  Use the types to concatenate a string
-                 int year = 2017;
-                 string city = "Fishers";
-                 Console.WriteLine("I am in " + city + " in " + year +".");
-                 Console.ReadLine();
+               //Silver: Use the types to concatenate a string
+                    int year = 2017;
+                    string city = "Fishers";
+                    Console.WriteLine("I am in " + city + " in " + year +".");
+                    Console.ReadLine();
                 
 */
-                /*Gold: Declare the year you were born in a string
-                    Convert that variable from a sting to an integer and print it 
-                    with a message in the console.
+                /*Gold: Declare the year in a string
+                    Convert that variable from a sting to an integer and print it with a message in the console.
                 */
 
-                int num = int.Parse("1776");//.Parse convers the string to an integer
-                Console.WriteLine("The USA was born in " + num + ".");
-                Console.ReadLine();
+                   int num = int.Parse("1776");//.Parse convers the string to an integer
+                   Console.WriteLine("The USA was born in " + num + ".");
+                   Console.ReadLine();
 
 
             }
