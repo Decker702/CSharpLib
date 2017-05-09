@@ -17,9 +17,8 @@ namespace _0._13_GettersandSetters
         private string _commonWorkQuote;
         //not used  private string _company;
 
-        //Dealing with the Id problem. Without the getter and setter, it can be negative.
-
-        public int Id
+        //Deals with the Id problem. Without the getter and setter, it can be negative.
+        public int Id 
         {
             set
             {
@@ -34,7 +33,7 @@ namespace _0._13_GettersandSetters
         }
 
 
-        //Dealing with the Id problem. Without the getter and setter, it can be negative.
+        
 
         public string Name
         {

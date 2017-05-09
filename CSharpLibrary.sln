@@ -67,6 +67,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.07_WhileLoop", "0.07_Whil
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.14_Interface", "0.14_Interface\0.14_Interface.csproj", "{0D02051F-D76B-4F0E-ADA0-C7C504F8F0B2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0.08_ResourceList", "0.08_ResourceList\0.08_ResourceList.csproj", "{10BDDA3D-E656-4CDE-ADFD-E3F12BD2F1CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -197,6 +199,10 @@ Global
 		{0D02051F-D76B-4F0E-ADA0-C7C504F8F0B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D02051F-D76B-4F0E-ADA0-C7C504F8F0B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D02051F-D76B-4F0E-ADA0-C7C504F8F0B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10BDDA3D-E656-4CDE-ADFD-E3F12BD2F1CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10BDDA3D-E656-4CDE-ADFD-E3F12BD2F1CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10BDDA3D-E656-4CDE-ADFD-E3F12BD2F1CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10BDDA3D-E656-4CDE-ADFD-E3F12BD2F1CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

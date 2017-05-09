@@ -1,0 +1,41 @@
+﻿
+ASCII Text Signiture Generator / Figlet Frontend			http://www.kammerl.de/ascii/AsciiSignature.php
+
+
+
+
+Bootstrap													http://getbootstrap.com/
+
+Bootsnipp													http://bootsnipp.com/
+
+Codepen														https://codepen.io/
+
+CSS Tricks													https://css-tricks.com
+
+Git - Reference												https://git-scm.com/docs
+
+Git Hub														https://github.com/
+	git status
+	git init
+	git add .
+	git commit -m "Message here"
+	git push origin master
+
+HTML5 Doctor												http://html5doctor.com/
+
+jQuery User Interface										https://jqueryui.com/
+
+Microsoft Developer Network									https://msdn.microsoft.com/en-us/
+
+
+Microsoft Virtual Academy									https://mva.microsoft.com/en-US/training-courses/introduction-to-asp-net-mvc-8322?l=nKZwZ8Zy_3504984382
+	
+
+Pluralsight													https://app.pluralsight.com
+
+Repl.it														https://repl.it/GmeS/2
+
+Stack Overflow												http://stackoverflow.com/
+
+
+Start Bootstrap												https://startbootstrap.com/

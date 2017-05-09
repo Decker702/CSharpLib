@@ -1,9 +1,10 @@
 ﻿
-/*Lesson - CSS should cascade from general to specific.  This allows a developer
-to make changes in a logical manner.  Demonstrate how to change fonts, etc.  Then 
-students should play around with changing things and adding to it.*/
+/*CSS cascades from general to specific to allow for changes to be made in a logical manner.*/  
+   
 
-/*HTML ELEMENTS*/
+/*HTML corresponding elements are on the left side in orange and the CSS to be implented are in {}.
+    It cascades from body to div to h1 and ends with targeting the list.
+*/
 
 body {
     font-family: "Verdana";
